@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <?php 
-$con=mysqli_connect("localhost","root","","myhmsdb");
+$con=mysqli_connect("mysql","nasir","hello@123","myhmsdb");
 
 include('newfunc.php');
 
