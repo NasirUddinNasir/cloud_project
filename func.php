@@ -1,5 +1,5 @@
 <?php
-session_start();
+
 $con=mysqli_connect("mysql","nasir","hello@123","myhmsdb");
 if(isset($_POST['patsub'])){
 	$email=$_POST['email'];
