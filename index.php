@@ -79,7 +79,7 @@ function checklen()
 <div class="container register" style="font-family: 'IBM Plex Sans', sans-serif;">
                 <div class="row">
                     <div class="col-md-3 register-left" style="margin-top: 10%;right: 5%">
-                        <img src="https://i0.wp.com/pamirtimes.net/wp-content/uploads/2020/04/Capture-1.jpg?resize=390%2C220&ssl=1" alt=""/>
+                        <img src="https://the.akdn/_next/image?url=https%3A%2F%2Fstatic.the.akdn%2F53832%2F1643875176-akhs-pakistan-akmc-gilgit_concept_designs_3-1.jpg%3Fw%3D1800%26auto%3Dformat&w=1920&q=75" alt=""/>
                         <h3>Welcome</h3>
                        
                     </div>
